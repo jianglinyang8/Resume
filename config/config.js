@@ -84,7 +84,7 @@ var config = {
         // ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
         // ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "智能人机对战五子棋", "采用C++编写的智能五子棋人机对战<br>2021/7/23"],
         ["./images/ran-1.jpeg", "https://jianglinyang8.github.io/Resume", "主管", "成品"],
-        ["./images/ran-2.jpeg", "https://jianglinyang8.github.io/Resume", "对样", "无色差"],
+        ["https://img2.baidu.com/it/u=2314701377,3671209836&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500", "https://jianglinyang8.github.io/Resume", "对样", "无色差"],
         ["./images/ran-3.jpeg", "https://jianglinyang8.github.io/Resume", "机缸", "领班"]
     ],
 
