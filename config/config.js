@@ -51,7 +51,7 @@ var config = {
     skills: [
         ["管理能力", 90, "red"],
         ["对样", 85, "blue"],
-        ["机缸", 80, "#1abc9c"],
+        ["机缸", 80, "#1abc9c"]
         // ["HTML5", 67, "rgba(0,0,0)"],
         // ["CSS3", 60, "yellow"],
         // ["JavaScript", 70, "pink"]
