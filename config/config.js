@@ -85,7 +85,7 @@ var config = {
         // ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "智能人机对战五子棋", "采用C++编写的智能五子棋人机对战<br>2021/7/23"],
         ["https://5b0988e595225.cdn.sohucs.com/images/20180612/98cad9cd813d4169858498d25d069fbb.jpeg", "https://jianglinyang8.github.io/Resume", "主管", "成品"],
         ["https://img2.baidu.com/it/u=2314701377,3671209836&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500", "https://jianglinyang8.github.io/Resume", "对样", "无色差"],
-        ["https://img0.baidu.com/it/u=3559751045,281466890&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=480", "机缸", "领班"]
+        ["https://img0.baidu.com/it/u=3559751045,281466890&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=480", "https://jianglinyang8.github.io/Resume", "机缸", "领班"]
     ],
 
 
