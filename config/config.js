@@ -7,7 +7,7 @@ var config = {
     email: "769844286@qq.com",
     address: "现居江苏省宿迁市",
     qq: "769844286",
-    log: "jiangbaofu",
+    log: "蒋保付",
     excpect_work: "染色主管",
 
 
